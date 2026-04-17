@@ -2,7 +2,7 @@
 
 A clean, animated, fully responsive personal portfolio website built with vanilla HTML, CSS, and JavaScript.
 
-🔗 **Live Site:** [amritasinha8976.github.io](https://amritasinha8976.github.io)
+🔗 **Live Site:** [amritasinha8976.github.io/Amrita.Portfolio](https://amritasinha8976.github.io/Amrita.Portfolio/)
 
 ---
 
@@ -70,8 +70,8 @@ portfolio/
 No build tools or dependencies needed — just open in a browser.
 
 ```bash
-git clone https://github.com/AmritaSinha8976/AmritaSinha8976.github.io.git
-cd AmritaSinha8976.github.io
+git clone https://github.com/AmritaSinha8976/Amrita.Portfolio.git
+cd Amrita.Portfolio
 open index.html
 ```
 
